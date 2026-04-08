@@ -1,0 +1,23 @@
+{
+  "skill_name": "evidence-based-seo",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Я запускаю интернет-магазин по продаже кофейного оборудования. Составь SEO-стратегию на первые 6 месяцев: семантическое ядро, структуру сайта и план контента.",
+      "expected_output": "Comprehensive SEO strategy including: semantic cocoon architecture with 3-level hierarchy (Target: category pages, Mixed: buying guides, Support: coffee knowledge articles), entity-based keyword research, specific Google signals targeted at each stage, technical SEO foundation checklist, content pipeline with entity coverage requirements, internal linking following matriarchal model, and 6-month timeline with milestones. Should reference specific signals like siteFocusScore, contentEffort, siteAuthority.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "У меня падает трафик на сайте уже 3 недели. Вот данные из GSC: средняя позиция выросла с 12 до 18, показы упали на 40%, клики на 55%. Помоги разобраться что случилось и что делать.",
+      "expected_output": "Structured anomaly analysis following the book's framework: anomaly classification (technical/content/algorithmic/seasonal/external), multi-source verification checklist, specific diagnostic prompts for GSC data analysis, hypothesis generation with evidence requirements, reference to specific Google signals that could cause such drops (pandaDemotion, NavBoost changes, siteAuthority shifts), and prioritized recovery action plan.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Напиши промпт для создания SEO-оптимизированной статьи про 'как выбрать кофемашину для дома' с учётом всех сигналов Google.",
+      "expected_output": "Multi-stage content prompt following the 4-stage pipeline: Stage 0 system config, Stage 1 entity collection prompt, Stage 2 taxonomy positioning (where this article fits in the cocoon), Stage 3 content generation with validation. Should use the Master Prompt 7-level structure (Role, Context, Task, Constraints, Format, Examples, Validation). Must reference specific signals: EntityAnnotations, contentEffort, OriginalContentScore, avgTermWeight. Should include anti-hallucination instructions and entity coverage validation step.",
+      "files": []
+    }
+  ]
+}
